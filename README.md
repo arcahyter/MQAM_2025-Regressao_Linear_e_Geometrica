@@ -5,7 +5,8 @@ Ou modificar o código para importar direto do kaggle (nesse caso vai precisar i
 
 Caso necessário instalar as seguintes bibliotecas <ins>pandas numpy seaborn sklearn</ins>
 
-pip install pandas 
-pip install numpy 
-pip install seaborn 
-pip install sklearn
+*pip install pandas 
+*pip install numpy 
+*pip install seaborn 
+*pip install sklearn
+*pip install statsmodels
