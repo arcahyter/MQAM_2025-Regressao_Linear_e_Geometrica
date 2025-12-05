@@ -3,10 +3,26 @@ Baixar dataset do kaggle https://www.kaggle.com/datasets/samuelotiattakorah/agri
 
 Ou modificar o código para importar direto do kaggle (nesse caso vai precisar installar a api do kaggle via pip install conforme está no site)
 
-Caso necessário instalar as seguintes bibliotecas <ins>pandas numpy seaborn sklearn</ins>
+Caso necessário instalar as seguintes bibliotecas <ins>pandas | numpy | seaborn | sklearn</ins>
 
 *pip install pandas 
 *pip install numpy 
 *pip install seaborn 
 *pip install sklearn
 *pip install statsmodels
+
+# Entrega2_MQAM
+Estudo de regressão logística 
+
+Baixar dataset do kaggle http://kaggle.com/datasets/johnsmith88/heart-disease-dataset
+
+Ou modificar o código para importar direto do kaggle (nesse caso vai precisar installar a api do kaggle via pip install conforme está no site)
+
+Caso necessário instalar as seguintes bibliotecas <ins>pandas| numpy | seaborn | sklearn</ins>
+
+*pip install pandas 
+*pip install numpy 
+*pip install seaborn 
+*pip install sklearn
+*pip install statsmodels
+
